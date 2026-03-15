@@ -1,4 +1,4 @@
-#generating mutants to population MutantLibrary directory
+#generating mutants to population MutantLibrary directory based off given array of Mutants
 
 import csv
 import os
